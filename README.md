@@ -29,12 +29,7 @@ This is a **vibe-coded** application developed through collaborative planning wi
 
 ## 🏗️ Development Approach
 
-This app was built using a **collaborative AI development pipeline** with:
-
-- **Claude**: Technical implementation and code architecture
-- **Gemini**: Alternative technical perspectives and optimization  
-- **ChatGPT**: Feature planning and user experience design
-- **Ra13s**: Project coordination and collaborative development
+This app was built using a **collaborative AI development pipeline**
 
 ## 🚀 Quick Start
 
