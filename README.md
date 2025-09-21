@@ -8,7 +8,7 @@ Visit the live application: [Posture Coach](https://ra13s.github.io/posture-coac
 
 ## ✨ About This Project
 
-This is a **vibe-coded** application developed through collaborative planning with **Claude, Gemini, ChatGPT, and Ra13s**. The routines focus on evidence‑informed posture work adapted for everyday use.
+This is a **vibe-coded** application developed through collaborative planning with **Claude, Gemini, ChatGPT, and Ra13s**. The routines focus on evidence‑informed posture work adapted for everyday use. 
 
 ## 🚀 Features
 
