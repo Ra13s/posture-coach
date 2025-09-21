@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Posture Coach",
+    "subtitle": "Daily micro-routine for stronger alignment",
+    "program_duration": "8-Week Posture-Fix Plan"
+  },
+  "navigation": {
+    "back_to_home": "← Back to Home",
+    "previous": "← Previous", 
+    "next": "Next →",
+    "complete_session": "✅ Complete Session"
+  },
+  "routines": {
+    "posture": "🧍 Daily Posture Routine",
+    "posture_strength": "💪 Strength Session (Optional)",
+    "workout_guide": "📖 Full Manual"
+  },
+  "routine_names": {
+    "posture": "Daily Posture Routine",
+    "posture_strength": "Strength Session (Optional)"
+  },
+  "routine_descriptions": {
+    "posture": "A focused 10-minute sequence to improve posture and reduce forward-head and rounded-shoulder patterns",
+    "posture_strength": "Twice-weekly add-on to build back/neck strength and reinforce alignment"
+  },
+  "buttons": {
+    "start_timer": "▶ Start Timer",
+    "pause": "⏸ Pause",
+    "resume": "▶ Resume",
+    "reset": "🔄 Reset"
+  },
+  "timer": {
+    "time_remaining": "Time Remaining",
+    "exercise_complete": "✅ Exercise Complete!",
+    "total_time": "Total Time",
+    "step_of": "Step {{current}} of {{total}}",
+    "percent_complete": "{{percent}}% Complete",
+    "duration": "Duration",
+    "start": "▶ Start Timer",
+    "pause": "⏸ Pause",
+    "resume": "▶ Resume",
+    "reset": "🔄 Reset"
+  },
+  "overview": {
+    "session_overview": "Session Overview",
+    "completed": "✅ Completed",
+    "current": "🎯 Current"
+  },
+  "types": {
+    "activation": "Activation",
+    "strengthening": "Strengthening",
+    "strength_training": "Strength Training",
+    "maintenance": "Maintenance",
+    "release": "Release"
+  },
+  "exercise": {
+    "do": "✓ Do:",
+    "dont": "✗ Don't:"
+  }
+}

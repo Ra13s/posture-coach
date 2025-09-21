@@ -1,0 +1,136 @@
+{
+  "posture_wall_check": {
+    "name": "Standing Wall Check",
+    "instructions": "Back to a wall, feet ~5 cm forward. Touch glutes, mid-back, and the back of your head to the wall; keep chin level. Hold and breathe naturally for 60 seconds.",
+    "dos": [
+      "Keep ribs down and neck long",
+      "Breathe low into the belly without shrugging"
+    ],
+    "donts": [
+      "Don't tilt the chin up or down",
+      "Don't overarch the low back"
+    ]
+  },
+  "posture_chin_tucks": {
+    "name": "Chin Tucks",
+    "instructions": "From the wall position or standing tall, glide your head straight back (like making a gentle double-chin) without tilting. Move slowly and smoothly. Suggested timing ~3 minutes for 3 × 10 slow reps.",
+    "dos": [
+      "Move straight back (not up/down)",
+      "Feel deep neck flexors engage gently"
+    ],
+    "donts": [
+      "Don't push into pain",
+      "Don't jam the head; stay smooth and controlled"
+    ]
+  },
+  "posture_pull_aparts": {
+    "name": "Wall Angels (or Band Pull-Aparts)",
+    "instructions": "Primary — Wall Angels: Stand with back to a wall, feet ~10–15 cm forward. Touch glutes, mid-back, and head to the wall. Set your arms in a \"goalpost\" shape (elbows ~90°) trying to keep the backs of hands/wrists and elbows lightly on the wall. Slide arms up and down slowly, keeping ribs down and neck long. Suggested timing ~3 minutes (e.g., 3 × 10 smooth reps).\n\nAlternative — Band Pull‑Apart (if you have a band): Hold a light band at chest height, palms up. Elbows straight, pull the band apart to the chest while gently squeezing shoulder blades together. Suggested timing ~3 minutes (3 × 12 reps).",
+    "dos": [
+      "Keep ribs down, neck long, and lower back neutral",
+      "For angels: move slowly, keep light contact of wrists/elbows with wall",
+      "For band: finish with shoulder blades gently squeezed"
+    ],
+    "donts": [
+      "Don't shrug shoulders or flare the ribs",
+      "Don't jam wrists/elbows into the wall if they don't reach",
+      "Don't arch the low back"
+    ]
+  },
+  "posture_pec_stretch": {
+    "name": "Doorway Pec Stretch",
+    "instructions": "Place forearms on a doorway and step through until a comfortable stretch across the chest. Hold gently, breathe. Suggested total 60s (e.g., 2 × 30s).",
+    "dos": [
+      "Keep shoulders down and away from ears",
+      "Stretch to mild-moderate tension only"
+    ],
+    "donts": [
+      "Don't force or bounce into the stretch",
+      "Don't let the head jut forward"
+    ]
+  },
+  "posture_cat_camel": {
+    "name": "Cat-Camel",
+    "instructions": "On hands and knees, slowly alternate arching (camel) and rounding (cat) the spine through a comfortable range. Move with the breath. Suggested timing ~2 minutes.",
+    "dos": [
+      "Move segment by segment through the spine",
+      "Keep the neck relaxed and aligned"
+    ],
+    "donts": [
+      "Don't rush the cycles",
+      "Don't push into painful ranges"
+    ]
+  },
+  "foam_roller_thoracic": {
+    "name": "Foam-Roller Thoracic Extensions",
+    "instructions": "Place a foam roller across your mid-back. Support your head lightly, elbows pointing up. Gently extend over the roller and return, moving through the mid-back segments. Keep ribs down and avoid hinging at the low back. 3 × 10 slow reps.",
+    "dos": [
+      "Breathe calmly and move through the mid-back",
+      "Keep the neck relaxed and ribs stacked"
+    ],
+    "donts": [
+      "Don't force end range or jam the low back",
+      "Don't rush the reps"
+    ]
+  },
+  "prone_y_raise": {
+    "name": "Prone Y-Raise",
+    "instructions": "Lying face-down, set arms in a Y shape with thumbs up. Raise arms off the floor slightly by drawing shoulder blades down and back; keep neck long. 3 × 12 reps.",
+    "dos": [
+      "Lead with lower traps, not the neck",
+      "Move slowly with control"
+    ],
+    "donts": [
+      "Don't shrug",
+      "Don't crank your head up"
+    ]
+  },
+  "supine_neck_nod": {
+    "name": "Supine Neck Nod",
+    "instructions": "Lie on your back. Tuck chin gently and lift head ~2 cm, hold ~3 seconds, then lower. 3 × 15 reps. Keep throat relaxed and focus on deep neck flexors.",
+    "dos": [
+      "Keep the motion small and controlled",
+      "Maintain neutral spine"
+    ],
+    "donts": [
+      "Don't hold your breath",
+      "Don't push into pain"
+    ]
+  },
+  "face_pull_band": {
+    "name": "Face Pull (Band)",
+    "instructions": "Anchor a band at face height. Pull toward the forehead with elbows high, finishing in external rotation. Squeeze mid-back gently. 3 × 15 reps.",
+    "dos": [
+      "Keep ribs down and neck long",
+      "Finish with good external rotation"
+    ],
+    "donts": [
+      "Don't arch the low back",
+      "Don't shrug the shoulders"
+    ]
+  },
+  "reverse_fly": {
+    "name": "Dumbbell Reverse Fly",
+    "instructions": "Hip hinge with a neutral spine, light dumbbells in hands. Raise arms out to the side, squeezing shoulder blades together; keep neck neutral. 3 × 12 reps.",
+    "dos": [
+      "Hinge at the hips, not the low back",
+      "Control the up and down"
+    ],
+    "donts": [
+      "Don't swing the weights",
+      "Don't crane the head"
+    ]
+  },
+  "dead_bug": {
+    "name": "Dead Bug",
+    "instructions": "Lie on your back with arms up and knees/hips at 90°. Flatten low back lightly to the floor. Extend opposite arm and leg slowly, then return and switch sides. 3 × 8 each side.",
+    "dos": [
+      "Keep low back gently braced",
+      "Move slowly and breathe"
+    ],
+    "donts": [
+      "Don't let ribs flare or back arch",
+      "Don't rush the alternating pattern"
+    ]
+  }
+}

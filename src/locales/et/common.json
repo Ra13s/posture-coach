@@ -1,0 +1,61 @@
+{
+  "app": {
+    "title": "Rühitreener",
+    "subtitle": "Igapäevane mikrorutiin tugevama rühi jaoks",
+    "program_duration": "8-nädalane rühi parandamise kava"
+  },
+  "navigation": {
+    "back_to_home": "Tagasi avalehele",
+    "previous": "← Eelmine", 
+    "next": "Järgmine →",
+    "complete_session": "✅ Lõpeta sessioon"
+  },
+  "routines": {
+    "posture": "🧍 Igapäevane rühi kava",
+    "posture_strength": "💪 Jõutreening (valikuline)",
+    "workout_guide": "📖 Täielik juhend"
+  },
+  "routine_names": {
+    "posture": "Igapäevane rühi kava",
+    "posture_strength": "Jõutreening (valikuline)"
+  },
+  "routine_descriptions": {
+    "posture": "Fookustatud 10-minutiline järjestus rühi parandamiseks ning pea ettekalde ja ümarate õlgade vähendamiseks",
+    "posture_strength": "Kaks korda nädalas tehtav jõutreening rühi tugevdamiseks ja joondatuse kinnistamiseks"
+  },
+  "buttons": {
+    "start_timer": "▶ Käivita taimer",
+    "pause": "⏸ Paus",
+    "resume": "▶ Jätka",
+    "reset": "🔄 Lähtesta"
+  },
+  "timer": {
+    "time_remaining": "Aega jäänud",
+    "exercise_complete": "✅ Harjutus lõppenud!",
+    "total_time": "Koguaeg",
+    "step_of": "Samm {{current}} / {{total}}",
+    "percent_complete": "{{percent}}% lõppenud",
+    "duration": "Kestus",
+    "start": "▶ Käivita taimer",
+    "pause": "⏸ Paus",
+    "resume": "▶ Jätka",
+    "reset": "🔄 Lähtesta"
+  },
+  "overview": {
+    "session_overview": "Sessiooni ülevaade",
+    "completed": "✅ Lõppenud",
+    "current": "🎯 Praegune"
+  },
+  
+  "types": {
+    "activation": "Aktiveerimine",
+    "strengthening": "Tugevdamine",
+    "strength_training": "Jõutreening",
+    "maintenance": "Hooldus",
+    "release": "Vabastamine"
+  },
+  "exercise": {
+    "do": "✓ Tee:",
+    "dont": "✗ Ära tee:"
+  }
+}

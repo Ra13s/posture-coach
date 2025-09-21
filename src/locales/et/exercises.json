@@ -1,0 +1,136 @@
+{
+  "posture_wall_check": {
+    "name": "Seinakontroll",
+    "instructions": "Seisa selg vastu seina, jalad u 5 cm eespool. Tuharad, keskselg ja kukal puutuvad seina; lõug paralleelselt põrandaga. Hoia asendit ja hinga rahulikult 60 s.",
+    "dos": [
+      "Hoia roided all ja kael pikana",
+      "Hinga madalalt kõhtu õlgu tõstmata"
+    ],
+    "donts": [
+      "Ära kalluta lõuga üles ega alla",
+      "Ära kaarda alaselga üle"
+    ]
+  },
+  "posture_chin_tucks": {
+    "name": "Lõua tahatõmbed",
+    "instructions": "Seina juures või seistes lükka pea õrnalt otse tagasi (nagu teeksid kerge topeltlõua), ilma üles/alla kaldenurga muutuseta. Liigu aeglaselt. Soovituslik aeg ~3 min (3 × 10 aeglast kordust).",
+    "dos": [
+      "Liigu otse tagasi (mitte üles/alla)",
+      "Tunne süvalihaste õrna tööd kaela ees"
+    ],
+    "donts": [
+      "Ära suru valu sisse",
+      "Ära torma; liigu sujuvalt"
+    ]
+  },
+  "posture_pull_aparts": {
+    "name": "Seinainglid (või kummilindi lahtitõmbed)",
+    "instructions": "Põhiharjutus — Seinainglid: Seisa selg vastu seina, jalad ~10–15 cm ees. Tuharad, keskselg ja kukal seinal. Aseta käed väravapostiasendisse (küünarnukid ~90°) ning püüa hoida randmete ja küünarnukkide tagakülgi kergelt seinal. Libista käsi aeglaselt üles‑alla; hoia roided all ja kael pikk. Soovituslikult ~3 min (nt 3 × 10 sujuvat kordust).\n\nAlternatiiv — Kummilindi lahtitõmbed: Hoia kerge lint rindkere kõrgusel, peopesad üles. Küünarnukid sirged; tõmba lint laiali ja too rinnale, abaluud õrnalt kokku. ~3 min (3 × 12).",
+    "dos": [
+      "Hoia roided all, kael pikk ja alaselg neutraalne",
+      "Inglite puhul: liigu aeglaselt, säilita randmete/küünarnukkide kerge kontakt seinal",
+      "Lindi puhul: lõpeta abaluud õrnalt kokku tuues"
+    ],
+    "donts": [
+      "Ära tõsta õlgu ega lase roidekaarel välja punnitada",
+      "Ära suru randmeid/küünarnukke jõuga vastu seina, kui need ei ulatu",
+      "Ära kaarda alaselga"
+    ]
+  },
+  "posture_pec_stretch": {
+    "name": "Uksepiitade rinnavenitus",
+    "instructions": "Aseta küünarvarred uksepiitadele ja astu ette, kuni tekib kerge venitus rinnal. Hoia ja hinga. Kokku u 60 s (nt 2 × 30 s).",
+    "dos": [
+      "Hoia õlad all ja kõrvadest eemal",
+      "Hoia kerge-keskmine pinge"
+    ],
+    "donts": [
+      "Ära sunni ega põrgata venitust",
+      "Ära lükka pead ette"
+    ]
+  },
+  "posture_cat_camel": {
+    "name": "Kass-kaamel",
+    "instructions": "Toengpõlvituses liigu aeglaselt läbi lülisamba – vaheldumisi kaaruta (kaamel) ja kumerda (kass) mugavas ulatuses. Hinga liikumisega kaasa. Soovituslik aeg ~2 min.",
+    "dos": [
+      "Liigu lüli-lüli haaval",
+      "Hoia kael lõdvestunult joondatult"
+    ],
+    "donts": [
+      "Ära kiirusta",
+      "Ära suru valulikesse asenditesse"
+    ]
+  },
+  "foam_roller_thoracic": {
+    "name": "Vahurulliga rindkere lülisamba sirutused",
+    "instructions": "Aseta vahurull keskselja alla (rindkere lülisamba piirkonda). Toeta pead kergelt, küünarnukid üles. Siruta õrnalt üle rulli ja naase, liikudes läbi keskseljasegmentide. Hoia roided all ja väldi alaselja ülemäärast läbivajumist. 3 × 10 aeglast kordust.",
+    "dos": [
+      "Hinga rahulikult ja liigu keskseljas",
+      "Hoia kael lõdvestunult ja roided stabiilsed"
+    ],
+    "donts": [
+      "Ära sunni lõppasendisse ega \"murra\" alaselga",
+      "Ära kiirusta"
+    ]
+  },
+  "prone_y_raise": {
+    "name": "Kõhuli Y-tõsted",
+    "instructions": "Lamades kõhuli, aseta käed Y‑asendisse, pöidlad üles. Tõsta käsi põrandast veidi, tuues abaluud alla‑taha; hoia kael pikk. 3 × 12 kordust.",
+    "dos": [
+      "Aktiveeri alumised trapetsid, mitte kael",
+      "Liigu aeglaselt kontrollitult"
+    ],
+    "donts": [
+      "Ära tõsta õlgu",
+      "Ära aja pead üles"
+    ]
+  },
+  "supine_neck_nod": {
+    "name": "Selili kaelanoogutus",
+    "instructions": "Lama selili. Tõmba lõug õrnalt taha ja tõsta pea ~2 cm, hoia ~3 s, seejärel langeta. 3 × 15 kordust. Lõdvesta kõri ja keskendu süvakaelapainutajatele.",
+    "dos": [
+      "Hoia liikumine väike ja kontrollitud",
+      "Säilita neutraalne lülisammas"
+    ],
+    "donts": [
+      "Ära hoia hinge kinni",
+      "Ära suru valu"
+    ]
+  },
+  "face_pull_band": {
+    "name": "Näotõmme (kummilindiga)",
+    "instructions": "Kinnita lint näokõrgusele. Tõmba laubani, küünarnukid kõrgemal, lõpeta välisrotatsioonis. Tunneta kerget tööd kesk‑seljas. 3 × 15 kordust.",
+    "dos": [
+      "Hoia roided all ja kael pikk",
+      "Lõpeta selge välisrotatsiooniga"
+    ],
+    "donts": [
+      "Ära kaarda alaselga",
+      "Ära tõsta õlgu"
+    ]
+  },
+  "reverse_fly": {
+    "name": "Hantlite tagumine lend (reverse fly)",
+    "instructions": "Tee puusaliigesest kallutus neutraalse seljaga, kerged hantlid käes. Tõsta käed külgedele, abaluud kokku; hoia kael neutraalne. 3 × 12 kordust.",
+    "dos": [
+      "Kalluta puusast, mitte alaseljast",
+      "Kontrolli liikumist üles ja alla"
+    ],
+    "donts": [
+      "Ära viska raskust",
+      "Ära tõmba pead ette"
+    ]
+  },
+  "dead_bug": {
+    "name": "Surnud putukas",
+    "instructions": "Lama selili, käed üles, põlved/puusad 90°. Suru alaselg kergelt vastu põrandat. Siruta aeglaselt vastaskäsi ja -jalg, naase ja vaheta poolt. 3 × 8 mõlemal poolel.",
+    "dos": [
+      "Hoia alaselg õrnalt toetatult",
+      "Liigu aeglaselt ja hinga"
+    ],
+    "donts": [
+      "Ära lase roidel \"paisuda\" ega seljal kaardu minna",
+      "Ära kiirusta mustriga"
+    ]
+  }
+}
